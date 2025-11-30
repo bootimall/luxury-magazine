@@ -1,0 +1,8 @@
+title: Luxury Fashion Magazine
+description: 명품 패션 정보 매거진
+url: https://roverto.github.io
+baseurl: /luxury-magazine
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
